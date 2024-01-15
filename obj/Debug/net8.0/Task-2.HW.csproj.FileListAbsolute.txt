@@ -1,0 +1,15 @@
+C:\Users\dimav\source\repos\Task-2.HW\bin\Debug\net8.0\Task-2.HW.deps.json
+C:\Users\dimav\source\repos\Task-2.HW\bin\Debug\net8.0\Task-2.HW.dll
+C:\Users\dimav\source\repos\Task-2.HW\bin\Debug\net8.0\Task-2.HW.pdb
+C:\Users\dimav\source\repos\Task-2.HW\bin\Debug\net8.0\Task-1.HW.dll
+C:\Users\dimav\source\repos\Task-2.HW\bin\Debug\net8.0\Task-1.HW.pdb
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.csproj.AssemblyReference.cache
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.AssemblyInfoInputs.cache
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.AssemblyInfo.cs
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.csproj.CoreCompileInputs.cache
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.csproj.CopyComplete
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.dll
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\refint\Task-2.HW.dll
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\Task-2.HW.pdb
+C:\Users\dimav\source\repos\Task-2.HW\obj\Debug\net8.0\ref\Task-2.HW.dll
